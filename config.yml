@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "https://pascalmichaillat.org/hugo-website/"
 title: Moritz-Maria von Igelfeld
 paginate: 20
 theme: PaperMod
@@ -13,7 +13,7 @@ menu:
     main:
         - name: Books
           url: books/
-          weight: 5 
+          weight: 5
         - name: Papers
           url: papers/
           weight: 2
@@ -22,7 +22,7 @@ menu:
           weight: 3
         - name: Data
           url: data/
-          weight: 4 
+          weight: 4
         - name: Blog
           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
           weight: 6
@@ -51,6 +51,7 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+    social: true
     profileMode:
           enabled: true
           title: Professor Dr von Igelfeld
@@ -113,7 +114,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false
