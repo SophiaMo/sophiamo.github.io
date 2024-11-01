@@ -15,7 +15,7 @@ menu:
           url: cv.pdf
           weight: 1
         - name: Job Market Paper
-          url: jmp/
+          url: Mo_JMP.pdf
           weight: 2
         - name: Research
           url: papers/
