@@ -8,7 +8,7 @@ summary: "Using a novel survey of U.S. workers, we demonstrate how coworkers sha
 
 ---
 ##### Download
-+ [Paper][survey_paper.pdf]
++ [Paper](survey_paper.pdf)
 
 ---
 
