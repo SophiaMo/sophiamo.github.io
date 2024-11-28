@@ -1,3 +1,5 @@
 User-agent: *
-Disallow: /
-Sitemap: https://sophiamo.github.io/portfolio/sitemap.xml
+Allow: *
+
+
+Sitemap: http://localhost:1313/sitemap.xml

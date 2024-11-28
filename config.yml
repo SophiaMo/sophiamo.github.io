@@ -3,6 +3,8 @@ title: Sophia Mo
 paginate: 20
 theme: PaperMod
 
+ignoreErrors:
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
@@ -49,7 +51,8 @@ params:
     UseHugoToc: true
     comments: false
     math: true
-    social: true
+    social:
+      twitter: https://twitter.com/sophiaymo
     profileMode:
           enabled: true
           title: Sophia Mo
@@ -75,6 +78,10 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:yiningmo@fas.harvard.edu
+        - name: Twitter
+          url: https://x.com/sophiaymo
+        - name: Bluesky
+          url: https://sophiaymo.bsky.social
 
     assets:
         disableScrollBarStyle: true
@@ -97,3 +104,7 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+module:
+  imports:
+    - path: github.com/SophiaMo/hugo-seo

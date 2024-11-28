@@ -7,6 +7,8 @@
 <meta name="robots" content="noindex, nofollow">
 {{- end }}
 
+{{ partial "hugo-seo/tags.html" . }}
+
 {{- /* Title */}}
 <title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}</title>
 
@@ -143,5 +145,4 @@
 
 {{ if or .Page.Params.math .Site.Params.math }}
 {{- partial "math.html" .}}
-{{ end }} 
-
+{{ end }}

@@ -1,68 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Moritz-Maria von Igelfeld</title>
-    <link>https://pascalmichaillat.org/hugo-website/</link>
-    <description>Recent content on Moritz-Maria von Igelfeld</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <title>Sophia Mo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sophia Mo</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pascalmichaillat.org/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coworker Influence on Job Choice: Information, Connection, and Industry Switching</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>Using a novel survey of U.S. workers, we demonstrate how coworkers shape job mobility by improving workers&amp;rsquo; information about wages and job opportunities across different industries.</description>
+    </item>
     <item>
       <title>Location</title>
-      <link>https://pascalmichaillat.org/hugo-website/location/</link>
+      <link>http://localhost:1313/location/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/location/</guid>
-      <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
+      
+      <guid>http://localhost:1313/location/</guid>
+      <description>&lt;hr&gt;
+&lt;h4 id=&#34;mailing-address&#34;&gt;Mailing address&lt;/h4&gt;
+&lt;p&gt;Professor Dr von Igelfeld&lt;br&gt;
+Institute of Romance Philology&lt;br&gt;
+University of Regensburg&lt;br&gt;
+Regensburg, Germany&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;office-address&#34;&gt;Office address&lt;/h4&gt;
+&lt;p&gt;Room 133&lt;br&gt;
+Institute of Romance Philology&lt;br&gt;
+University of Regensburg&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;office-location&#34;&gt;Office location&lt;/h4&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10470.896334563153!2d12.085487114429176!3d48.99680799095555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479fc1126394f30f%3A0xb4c5000594ee5334!2sUniversity%20of%20Regensburg!5e0!3m2!1sen!2sus!4v1714871932562!5m2!1sen!2sus&#34; 
+width=&#34;700&#34; height=&#34;500&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>https://pascalmichaillat.org/hugo-website/officehours/</link>
+      <link>http://localhost:1313/officehours/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/officehours/</guid>
-      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
+      
+      <guid>http://localhost:1313/officehours/</guid>
+      <description>&lt;hr&gt;
+&lt;h4 id=&#34;schedule&#34;&gt;Schedule&lt;/h4&gt;
+&lt;p&gt;Office hours take place on Wednesday at 10am.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;location&#34;&gt;Location&lt;/h4&gt;
+&lt;p&gt;By default meetings are in my office. I am also available for virtual meetings on Zoom.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;meeting-material&#34;&gt;Meeting material&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;If we are meeting to discuss research, please send me a written description of the work that you would like to discus.&lt;/li&gt;
+&lt;li&gt;Presentation slides or paper draft are perfectly fine.&lt;/li&gt;
+&lt;li&gt;If you do not have those, please send a one-page description of the research.&lt;/li&gt;
+&lt;li&gt;Please send me the material by 8pm on the evening prior of our meeting.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Lender Experiences and Mortgage Costs</title>
+      <link>http://localhost:1313/papers/paper2/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/papers/paper2/</guid>
+      <description>This paper explores how lenders’ past experiences with house price changes impact the mortgage rates they set, driven by their expectations of future price trends.</description>
     </item>
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>https://pascalmichaillat.org/hugo-website/data/data1/</link>
+      <link>http://localhost:1313/data/data1/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/data/data1/</guid>
+      
+      <guid>http://localhost:1313/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
-      <title>Unusual Uses For Olive Oil</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper1/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper1/</guid>
-      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
-    </item>
-    <item>
-      <title>The Finer Points of Sausage Dogs</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper2/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper2/</guid>
-      <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
-    </item>
-    <item>
       <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course1/</link>
+      <link>http://localhost:1313/courses/course1/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course1/</guid>
-      <description>This graduate course presents classical results in Romance philology.</description>
+      
+      <guid>http://localhost:1313/courses/course1/</guid>
+      <description>This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs.</description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
-      <link>https://pascalmichaillat.org/hugo-website/books/book1/</link>
+      <link>http://localhost:1313/books/book1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/books/book1/</guid>
+      
+      <guid>http://localhost:1313/books/book1/</guid>
       <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
     <item>
       <title>Profanity in Early Irish</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course2/</link>
+      <link>http://localhost:1313/courses/course2/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course2/</guid>
-      <description>This undergraduate course discusses profanity in Early Irish.</description>
+      
+      <guid>http://localhost:1313/courses/course2/</guid>
+      <description>This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English.</description>
     </item>
+    <item>
+      <title>Archive</title>
+      <link>http://localhost:1313/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/archive/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
