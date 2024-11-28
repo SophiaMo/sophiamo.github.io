@@ -52,7 +52,7 @@ params:
     comments: false
     math: true
     social:
-      twitter: https://twitter.com/sophiaymo
+      twitter: sophiaymo
     profileMode:
           enabled: true
           title: Sophia Mo
