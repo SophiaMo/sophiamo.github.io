@@ -22,10 +22,6 @@ menu:
         - name: Research
           url: papers/
           weight: 3
-        - name: Research
-          url: papers/
-          weight: 1
-
 
 params:
     description: "I am a PhD candidate in Economics at Harvard University. My research fields are macroeconomics and labor economics."
