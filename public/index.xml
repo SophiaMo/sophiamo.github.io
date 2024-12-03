@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sophia Mo</title>
-    <link>http://localhost:1313/</link>
+    <link>https://sophiamo.github.io/</link>
     <description>Recent content on Sophia Mo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sophiamo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coworker Influence on Job Choice: Information, Connection, and Industry Switching</title>
-      <link>http://localhost:1313/papers/paper1/</link>
+      <link>https://sophiamo.github.io/papers/paper1/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/papers/paper1/</guid>
+      <guid>https://sophiamo.github.io/papers/paper1/</guid>
       <description>Using a novel survey of U.S. workers, we demonstrate how coworkers shape job mobility by improving workers&amp;rsquo; information about wages and job opportunities across different industries.</description>
     </item>
     <item>
       <title>Lender Experiences and Mortgage Costs</title>
-      <link>http://localhost:1313/papers/paper2/</link>
+      <link>https://sophiamo.github.io/papers/paper2/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/papers/paper2/</guid>
+      <guid>https://sophiamo.github.io/papers/paper2/</guid>
       <description>This paper explores how lenders’ past experiences with house price changes impact the mortgage rates they set, driven by their expectations of future price trends.</description>
     </item>
     <item>
       <title>Archive</title>
-      <link>http://localhost:1313/archive/</link>
+      <link>https://sophiamo.github.io/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archive/</guid>
+      <guid>https://sophiamo.github.io/archive/</guid>
       <description></description>
     </item>
     
