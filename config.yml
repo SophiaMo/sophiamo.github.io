@@ -3,6 +3,7 @@ title: Sophia Mo
 paginate: 20
 theme: PaperMod
 
+enableGitInfo: true
 ignoreErrors:
 
 enableInlineShortcodes: true
