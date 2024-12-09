@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Papers on Sophia Mo</title>
-    <link>https://sophiamo.github.io/papers/</link>
+    <link>http://localhost:1313/papers/</link>
     <description>Recent content in Papers on Sophia Mo</description>
-    <generator>Hugo -- 0.136.0</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <atom:link href="https://sophiamo.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coworker Influence on Job Choice: Information, Connection, and Industry Switching</title>
-      <link>https://sophiamo.github.io/papers/paper1/</link>
+      <link>http://localhost:1313/papers/paper1/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://sophiamo.github.io/papers/paper1/</guid>
+      <guid>http://localhost:1313/papers/paper1/</guid>
       <description>Using a novel survey of U.S. workers, we demonstrate how coworkers shape job mobility by improving workers&amp;rsquo; information about wages and job opportunities across different industries.</description>
     </item>
     <item>
       <title>Lender Experiences and Mortgage Costs</title>
-      <link>https://sophiamo.github.io/papers/paper2/</link>
+      <link>http://localhost:1313/papers/paper2/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://sophiamo.github.io/papers/paper2/</guid>
+      <guid>http://localhost:1313/papers/paper2/</guid>
       <description>This paper explores how lenders’ past experiences with house price changes impact the mortgage rates they set, driven by their expectations of future price trends.</description>
     </item>
   </channel>

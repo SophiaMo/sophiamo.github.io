@@ -2,4 +2,4 @@ User-agent: *
 Allow: *
 
 
-Sitemap: https://sophiamo.github.io/sitemap.xml
+Sitemap: http://localhost:1313/sitemap.xml
