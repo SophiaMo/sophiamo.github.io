@@ -1,20 +1,19 @@
 ---
-title: "Lender Experiences and Mortgage Costs"
-date: 2023-01-01
-lastmod: 2023-01-01
-author: "Sophia Mo"
-summary: "This paper explores how lenders’ past experiences with house price changes impact the mortgage rates they set, driven by their expectations of future price trends."
+title: "Coworker Influence on Job Choice: Information, Connection, and Industry Switching"
+date: 2024-11-01
+lastmod: 2024-11-01
+author: "Xinyue Lin, Armando Miano, and Sophia Mo"
+summary: "Using a novel survey of U.S. workers, we demonstrate how coworkers shape job mobility by improving workers' information about wages and job opportunities across different industries."
 ---
 
 ---
 ##### Download
-
-+ [Paper](lender_expectation.pdf)
++ [Paper](survey_paper.pdf)
 
 ---
 
 ##### Abstract
 
- This paper examines how lenders’ past experiences with house price changes influence the mortgage rates they charge, focusing on the role of lender expectations. I hypothesize that lenders extrapolate from past house price changes to balance profit margins with default risk, offering lower rates when they anticipate future price increases. Consistent with this hypothesis, I show that lenders exposed to greater house price growth tend to charge lower mortgage rates. I rule out alternative explanations, such as differential local growth opportunities or the potential of banks to influence local prices, using placebo tests and geographic variation in lending patterns. Specifically, I find that moving from the 25th to the 75th percentile of price growth exposure is associated with a 4.5 percentage point reduction in loan rate spreads.
+ We investigate the role of coworkers in shaping job mobility decisions by altering perceived outside options. Leveraging novel survey data administered to a representative sample of wage and salaried workers in the US, we identify two key channels through which current and former coworkers influence workers' decisions to switch jobs or industries. First, having more current coworkers with prior experience in an industry improves the accuracy of wage beliefs for that industry, as supported by an analysis of perceived wages and coworker composition. Second, having more past coworkers currently employed at a firm increases the perceived likelihood of receiving a job offer from that firm, as evidenced by a survey experiment eliciting job offer probabilities for hypothetical jobs. We investigate the welfare implications of these results in a job choice model that incorporates these coworker effects, departing from traditional models that assume perfect information about wages and job-offer probabilities.
 
 ---
