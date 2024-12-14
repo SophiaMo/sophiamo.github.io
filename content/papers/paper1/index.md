@@ -1,19 +1,29 @@
 ---
-title: "Coworker Influence on Job Choice: Information, Connection, and Industry Switching"
-date: 2024-11-01
-lastmod: 2024-11-01
-author: "Xinyue Lin, Armando Miano, and Sophia Mo"
-summary: "Using a novel survey of U.S. workers, we demonstrate how coworkers shape job mobility by improving workers' information about wages and job opportunities across different industries."
+title: "Does Mobility Beget Mobility? Coworker Networks and the Sectoral Reallocation of Labor"
+date: 2024-12-01
+lastmod: 2024-12-01
+author: "Xinyue Lin and Sophia Mo"
+summary: "We study how coworker networks influence sectoral job-switching decisions, using German administrative data and causal identification strategies. A general equilibrium model highlights the role of coworker networks in labor reallocation and shows that considering these networks amplifies the trade-off between aggregate welfare and inequality."
 ---
 
 ---
 ##### Download
-+ [Paper](survey_paper.pdf)
++ [Paper](Mo_JMP.pdf)
 
 ---
 
 ##### Abstract
 
- We investigate the role of coworkers in shaping job mobility decisions by altering perceived outside options. Leveraging novel survey data administered to a representative sample of wage and salaried workers in the US, we identify two key channels through which current and former coworkers influence workers' decisions to switch jobs or industries. First, having more current coworkers with prior experience in an industry improves the accuracy of wage beliefs for that industry, as supported by an analysis of perceived wages and coworker composition. Second, having more past coworkers currently employed at a firm increases the perceived likelihood of receiving a job offer from that firm, as evidenced by a survey experiment eliciting job offer probabilities for hypothetical jobs. We investigate the welfare implications of these results in a job choice model that incorporates these coworker effects, departing from traditional models that assume perfect information about wages and job-offer probabilities.
+Social networks influence labor market outcomes. We investigate how the sectoral composition of an individual’s current coworkers’ past employment affects job-switching decisions. To
+identify causal effects, we employ multiple strategies, including distinguishing between current-year and non-current-year coworkers, controlling for time-varying shocks specific to the industry
+pairs, and using unexpected death or retirement events to isolate idiosyncratic changes in coworker
+networks. Using German administrative matched employer-employee longitudinal data, we find
+a positive causal relationship between the proportion of coworkers from a sector and both the
+propensity of transitioning to that sector and the sensitivity to sectoral wage changes. To quantify
+the coworker mechanism’s contribution to employment and reallocation, we develop and estimate a multi-sector, multi-firm general equilibrium model where perceived wages and adjustment
+costs for sector transitions depend on coworker shares. Our results show that the welfare effect of
+COVID-induced productivity shocks is higher when considering coworker networks compared to
+assuming no influence from coworkers. Maintaining worker-employer ties to reduce competition
+in positively shocked sectors can further increase welfare.
 
 ---
