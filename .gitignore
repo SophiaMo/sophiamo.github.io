@@ -2,3 +2,7 @@
 .hugo_build.lock
 resources/_gen/
 /resources/_gen/
+resources/_gen/images/
+/resources/_gen/images/
+public
+/public
