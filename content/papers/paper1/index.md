@@ -1,8 +1,8 @@
 ---
 title: "Does Mobility Beget Mobility? Coworker Networks and the Sectoral Reallocation of Labor"
-date: 2024-12-01
-lastmod: 2024-12-01
-author: "Xinyue Lin and Sophia Mo"
+date: 2025-08-01
+lastmod: 2025-08-01
+author: "Sophia Mo and Xinyue Lin"
 summary: "We study how coworker networks influence sectoral job-switching decisions, using German administrative data and causal identification strategies. A general equilibrium model highlights the role of coworker networks in labor reallocation and shows that considering these networks amplifies the trade-off between aggregate welfare and inequality."
 ---
 
@@ -14,7 +14,7 @@ summary: "We study how coworker networks influence sectoral job-switching decisi
 
 ##### Abstract
 
-Social networks influence labor market outcomes. We investigate how the sectoral composition of an individual’s current coworkers’ past employment affects job-switching decisions. To
+We investigate how the sectoral composition of an individual’s current coworkers’ past employment affects job-switching decisions. To
 identify causal effects, we employ multiple strategies, including distinguishing between current-year and non-current-year coworkers, controlling for time-varying shocks specific to the industry
 pairs, and using unexpected death or retirement events to isolate idiosyncratic changes in coworker
 networks. Using German administrative matched employer-employee longitudinal data, we find
