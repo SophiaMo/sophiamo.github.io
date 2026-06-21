@@ -14,6 +14,19 @@ summary: "Using a novel survey of U.S. workers, we demonstrate how coworkers sha
 
 ##### Abstract
 
-We investigate the role of coworkers in shaping job mobility decisions by altering workers’ perceptionsof their outside options. Using novel survey data collected from a representative sampleof U.S. wage and salaried workers, we document two distinct channels through which currentand former coworkers influence mobility. First, having more current coworkers with prior experiencein an industry improves the accuracy of wage beliefs for that industry. Second, having morepast coworkers currently employed at a firm raises the perceived probability of receiving a job offerfrom that firm, as shown in a survey experiment that elicits subjective job-offer probabilities.We incorporate these findings into a job choice model with coworker-based learning and referraleffects. Relative to standard models that assume perfect information about wages and job opportunities, our framework demonstrates that coworker networks facilitate reallocation and reduce the welfare losses associated with informational frictions.
+We study how coworker networks shape industry mobility through two channels: the accuracy
+of workers’ wage beliefs about other sectors and their perceived probabilities of receiving job
+offers. Current coworkers improve wage belief accuracy: having all versus no current coworkers
+with prior experience in a given industry reduces median-wage prediction errors by 29 percent
+of their mean. Both current and past coworkers raise perceived job-offer probabilities and stated
+application intentions. Using novel survey data from a representative sample of about 3,000 U.S.
+wage and salary workers, we find that having all past coworkers employed in a given industry
+increases perceived offer probabilities by 11 percentage points (a 29 percent increase relative to
+the mean) and raises application intentions by 29 percentage points, while the same shift for current
+coworkers raises both by 17 percentage points. A conjoint experiment confirms that active
+coworker connections raise perceived offer rates by 11.4 percentage points, more than any other
+job attribute in our design. We embed these findings in a structural sector-choice model calibrated
+to CPS transition flows and survey moments to quantify the aggregate implications of coworker
+influence for labor market mobility.
 
 ---
