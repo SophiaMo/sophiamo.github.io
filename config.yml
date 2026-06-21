@@ -25,7 +25,7 @@ menu:
           weight: 3
 
 params:
-    description: "I am a PhD candidate in Economics at Harvard University. My research fields are macroeconomics and labor economics."
+    description: "I hold a PhD in Economics from Harvard University. My research fields are labor economics and applied macroeconomics."
     author: Sophia Mo
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
