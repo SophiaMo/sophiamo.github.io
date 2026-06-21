@@ -1,8 +1,8 @@
 ---
 title: "Coworker Influence on Job Choice: Information, Connection, and Industry Switching"
-date: 2025-06-01
-lastmod: 2025-06-01
-author: "Xinyue Lin, Armando Miano, and Sophia Mo"
+date: 2026-06-21
+lastmod: 2025-06-21
+author: "Sophia Mo, Xinyue Lin, Armando Miano"
 summary: "Using a novel survey of U.S. workers, we demonstrate how coworkers shape job mobility by improving workers' information about wages and job opportunities across different industries."
 ---
 
