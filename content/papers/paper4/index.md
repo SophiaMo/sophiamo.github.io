@@ -2,7 +2,7 @@
 title: "Organizational Bridges and the Direction of Inventive Search"
 date: 2026-09-01
 lastmod: 2026-09-01
-author: "Sophia Mo"
+author: "Sophia Mo, Jieying Zhang"
 summary: "Using U.S. patent records matched to employer histories for four million inventors, we show that co-inventor ties to peers at firms specialized in other fields steer inventors into those fields. A mass-layoff displacement IV provides causal identification."
 ---
 
