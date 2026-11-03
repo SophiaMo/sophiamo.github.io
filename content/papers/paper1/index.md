@@ -9,6 +9,7 @@ summary: "We study how coworker networks influence sectoral job-switching decisi
 ---
 ##### Download
 + [Paper](Mo_JMP.pdf)
++ [Slides](Mo_slides.pdf)
 
 ---
 
